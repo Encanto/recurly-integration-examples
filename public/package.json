@@ -1,0 +1,15 @@
+{
+  "name": "public",
+  "version": "1.0.0",
+  "description": "Here you may find a few examples of payment forms using Recurly.js to tokenize\r billing info before submitting to their respective backend.",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server -c config.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
