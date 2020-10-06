@@ -115,6 +115,6 @@ const pubDirPath = PUBLIC_DIR_PATH || '/../../public';
 app.use(express.static(__dirname + pubDirPath));
 
 // Start the server
-app.listen(9001, function () {
-  console.log('Listening on port 9001');
+app.listen(8001, function () {
+  console.log('Listening on port 8001');
 });
